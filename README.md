@@ -1,4 +1,4 @@
-# Web-Scrapping
+# Review-Scrapping
 Web scraping is a technique to fetch data from websites. While surfing on the web, many websites don’t allow the user to save data for personal use. One way is to manually copy-paste the data, which both tedious and time-consuming. Web Scraping is the automation of the data extraction process from websites. This event is done with the help of web scraping software known as web scrapers. They automatically load and extract data from the websites based on user requirements. These can be custom built to work for one site or can be configured to work with any website.
 # Uses :
 Brand Monitoring and Competition Analysis: Web Scraping is used to get customer feedback regarding a particular service or product so as to understand how a customer feels regarding that particular thing. It is also used to extract competitor data in a structural, usable format.
